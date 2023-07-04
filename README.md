@@ -1,1 +1,2 @@
-# digital-agency-website![Screenshot (518)](https://github.com/pratyusha-23/digital-agency-website/assets/129256390/daa43a93-a3b5-40b5-83df-7bc7dbcf9e17)
+# digital-agency-website
+![Screenshot (517)](https://github.com/pratyusha-23/digital-agency-website/assets/129256390/f30e73f9-95e1-4cbe-a8a4-6c81bbe8d0a9)
